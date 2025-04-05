@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-wechat-uploader",
+  "name": "WeChat Image Uploader",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "自动上传图片到微信公众号并替换链接",
+  "author": "Obsidian User",
+  "authorUrl": "https://github.com/AnswerZhao",
+  "isDesktopOnly": true
+}
