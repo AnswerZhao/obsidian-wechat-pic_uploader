@@ -40,7 +40,7 @@ npm run build
 
 > 注意：AppID 和 AppSecret 可以在微信公众平台的「开发 > 基本配置」页面获取。请确保你的公众号已通过微信认证，并具有上传图片的权限。
 
-![设置界面](assets/owu-setting.png)
+![设置界面](assets/owu_setting.png)
 
 ## 使用方法
 
@@ -56,7 +56,7 @@ npm run build
 3. 输入「上传当前文档中的所有图片到微信公众号」并执行
 4. 或者点击左侧边栏的图片上传图标
 
-![上传按钮](assets/btn-upload.png)
+![上传按钮](assets/btn_upload_all.png)
 
 ### 上传选中的图片
 
